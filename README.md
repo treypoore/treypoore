@@ -10,8 +10,8 @@ Every project starts with *"what problem does this technical solution solve?"*
 -  [**Meeting Automation Workflow**](https://github.com/treypoore/make-meeting-automation): Make.com automation streamlining meeting operations
 -  **[Evergreen](https://github.com/JohnPClark27/evergreen)**: Hymns, Scripture & prayer app for older adults in memory care. Top 10 at the Gloo AI Hackathon (Denver). [Live demo](https://evergreen-ai.pages.dev/)
 
-### 🧰 Toolkit
+###  Toolkit
 Python · pandas · scikit-learn · Make.com · R · Prompt Engineering · SQL · RAG
 
-### 📫 Let's connect
+###  Let's connect!
 [LinkedIn](https://www.linkedin.com/in/trey-poore) · [Email](mailto:poore.trey@gmail.com) · [Portfolio](https://treypooreportfolio.com)
